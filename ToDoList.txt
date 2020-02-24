@@ -1,0 +1,4 @@
+Shopping,2
+Homework,1
+Shower,1
+clean,2
